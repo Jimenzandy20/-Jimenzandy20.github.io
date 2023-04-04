@@ -1,2 +1,2 @@
-# -Jimenzandy20.github.io
+# jimenzandy20.github.io
 My first website 
