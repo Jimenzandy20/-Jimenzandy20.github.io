@@ -1,13 +1,40 @@
+main{
+    background: cornflowerblue;
+    width: 400px ;
+    padding: 16px;
+    border-radius: 8px;
+  }
 body {
     background: #dad6d6;
-
+    display: grid;
+    height: 100vh;
+    place-items: center; 
+    padding: 16px;
 }
 
 img{
     width: 50%;
+    border-radius: 50%;
 }
 
 h1{
     color : #700;
     text-align: center;
 }
+
+  
+  main{
+    background: cornflowerblue;
+    width: 400px ;
+    padding: 16px;
+    border-radius: 8px;
+  }
+  
+  div{
+    text-align: center; 
+  }
+  
+  main:hover{
+    box-shadow : 0px 15px 35px -5px rgba(40, 59, 80, 0.98);
+    transform : scale(1.25);
+  }
